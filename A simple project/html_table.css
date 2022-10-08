@@ -1,0 +1,18 @@
+#paral {
+  text-align: center;
+}
+table, th, td {
+    border: 1px solid green;
+    border-spacing: 5px;
+    padding: 5px;
+   }
+  tr {
+    background-color: white;
+  }
+  .thead{
+    background-color: whitesmoke;
+    font-weight: 1000;
+  }
+  .subject, .adescore, .johnscore, .peterscore, .rukayatscore, .paulscore, .victorscore, .johnscore, .doescore, .stephenscore {
+    font-weight: bold;
+  }
